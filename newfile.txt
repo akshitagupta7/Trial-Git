@@ -1,1 +1,2 @@
-i typed something in he
+First experience with Git.
+Hail Hactoberfest!!!
